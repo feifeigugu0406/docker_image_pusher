@@ -4,3 +4,4 @@ nginx
 solidnerd/bookstack
 mysql:8.3
 linuxserver/bookstack
+linuxserver/mariadb
